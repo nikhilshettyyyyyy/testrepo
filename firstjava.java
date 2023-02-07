@@ -2,6 +2,6 @@
 
 class T1{
 public static void main(String[] args){
-System.out.println("New Java File");
+System.out.println("NEW JAVA FILE");
 }
 }
